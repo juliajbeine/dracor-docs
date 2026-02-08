@@ -2,6 +2,10 @@
 
 This continuously updated bibliography aims to compile all research publications by authors who have actively worked with DraCor. To be included, a publication must go beyond merely mentioning DraCor – it must make use of DraCor-provided corpora or data accessed through our interface. Within each year, entries are organised alphabetically by the surname of the first author. For the period between 2015 and 2018, we have also included publications from [DLINA](https://dlina.github.io/), the precursor project to DraCor. In addition, we maintain a [DraCor community in Zenodo](https://zenodo.org/communities/dracor), where we collect not only academic papers but also presentation slides and datasets.
 
+## 2026
+
+* Thiago Dumont Oliveira: The French Drama Revolution: Political Economy and Literary Production, 1700–1900. University of Tartu, 31 January 2026. ([doi:10.48550/arXiv.2602.00588](https://doi.org/10.48550/arXiv.2602.00588))
+
 ## 2025
 
 * Ksenia Anisimova: Analiz tonal’nosti russkoj dramy XVIII–XX vv. kak instrument modelirovanija chudožestvennoj struktury. \[Analysis of the Tonality of Russian Drama from the 18th to the 20th Century as a Tool for Modeling Artistic Structure.\] In: Cifrovye gumanitarnye issledovanija. \[Digital Humanities Research.\] 2025, no. 2, pp. 24–47. ([doi:10.31860/cgi-2025-2-24-47](https://doi.org/10.31860/cgi-2025-2-24-47))
@@ -36,7 +40,7 @@ DigitalCommons@University of Nebraska-Lincoln. 30 April 2025.
 * Henny Sluyter-Gäthje, Ingo Börner, Peer Trilcke, Evgeniya Ustinova, Frank Fischer, Carsten Milling: Towards Modularised Open Infrastructures: Enhancing Research Publications in Digital Humanities – »Detecting Small Worlds« as an Example. In: DH2025: »Accessibility and Citizenship«. 14–18 July 2025. Universidade NOVA de Lisboa. ([doi:10.5281/zenodo.18183628](https://doi.org/10.5281/zenodo.18183628))
 * María Ángel Somalo, Teresa Santa María: El papel de los personajes de Galdós en tres de sus obras teatrales, a partir del análisis de redes sociales. In: Talía. Revista de estudios teatrales. Vol. 7 (2025), pp. 131–145. ([doi:10.5209/tret.96018](https://doi.org/10.5209/tret.96018))
 * Botond Szemes, Mihaly Nagy: Temporal Aspects of Structural Differences in Dramatic Genre. In: Zeitschrift für digitale Geisteswissenschaften (ZfdG). Vol. 10 (2025). ([doi:10.17175/2025_007](https://doi.org/10.17175/2025_007))
-* Peer Trilcke, Ingo Börner, Henny Sluyter-Gäthje, Daniil Skorinkin, Frank Fischer, Carsten Milling: Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API. In: DraCor Summit. 1–5 September 2025. Book of Abstracts. Freie Universität Berlin/Potsdam University. ([preprint](https://www.arxiv.org/abs/2508.13774))
+* Peer Trilcke, Ingo Börner, Henny Sluyter-Gäthje, Daniil Skorinkin, Frank Fischer, Carsten Milling: Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API. In: DraCor Summit. 1–5 September 2025. Book of Abstracts. Freie Universität Berlin/Potsdam University. (Preprint.) ([doi:10.48550/arXiv.2508.13774](https://doi.org/10.48550/arXiv.2508.13774))
 * Aura Cristina Udrea, Stefan Ruseti, Laurentiu-Marian Neagu, Ovio Olaru, Andrei Terian, Mihai Dascalu: Who Speaks to Whom? An LLM-Based Social Network Analysis of Tragic Plays. In: Electronics. Vol. 14 (2025), no. 19, 3847. ([doi:10.3390/electronics14193847](https://doi.org/10.3390/electronics14193847))
 * Markus Vollberg: Die Macht der Kammerzofe. Zur Funktion der Figur Lisette in den Jugendkomödien G. E. Lessings und ausgewählten Komödien von Pierre de Marivaux. (Master thesis.) University of Potsdam. 2025. ([doi:10.25932/publishup-67554](https://doi.org/10.25932/publishup-67554))
 
